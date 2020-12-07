@@ -38,5 +38,12 @@ Once clicked after some time a pop up will come with the message API key created
 pandas
 
 google-api-python-client
+
+3. To get any channel's ID:
+
+Go to the channel URL: https://www.youtube.com/channel/UCKuHFYu3smtrl2AwwMOXOlg
+
+And the end part that is after channel/ is a channel's id. For this (https://www.youtube.com/channel/UCKuHFYu3smtrl2AwwMOXOlg) URL the channel id is: UCKuHFYu3smtrl2AwwMOXOlg
+
  
 
