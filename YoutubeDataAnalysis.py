@@ -1,7 +1,7 @@
 import pandas as pd
 from googleapiclient.discovery import build
 
-youTubeApiKey = "AIzaSyCQsoFj5a9ZHshYqQ8v7FPTB1wtOhe9m_s" # don't enter this API key. Enter the API key you just generated using the Youtube API. 
+youTubeApiKey = "Enter the API-key you just generated" # Enter the API key you just generated using the Youtube API. 
 youtube = build('youtube','v3',developerKey=youTubeApiKey)
 channelId='UCnc6db-y3IU7CkT_yeVXdVg' # J Cole's channel. You can take the channel ID of any channel of your choice
 
