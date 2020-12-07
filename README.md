@@ -1,4 +1,4 @@
-# Easy Extract Analyse Youtube Data
+# Easy Extract and Analyse Youtube Data
 1. Generate the API key:
 
 Get your API key here: https://console.developers.google.com/
