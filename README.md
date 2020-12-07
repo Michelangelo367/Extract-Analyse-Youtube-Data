@@ -43,7 +43,9 @@ google-api-python-client
 
 Go to the channel URL: https://www.youtube.com/channel/UCKuHFYu3smtrl2AwwMOXOlg
 
-And the end part that is after channel/ is a channel's id. For this (https://www.youtube.com/channel/UCKuHFYu3smtrl2AwwMOXOlg) URL the channel id is: UCKuHFYu3smtrl2AwwMOXOlg
+And the end part that is after channel/ is the channel's id. For this (https://www.youtube.com/channel/UCKuHFYu3smtrl2AwwMOXOlg) URL the channel id is: UCKuHFYu3smtrl2AwwMOXOlg
 
+
+![](ScreenshotsAPI/ChannelIDSS.png) 
  
 
